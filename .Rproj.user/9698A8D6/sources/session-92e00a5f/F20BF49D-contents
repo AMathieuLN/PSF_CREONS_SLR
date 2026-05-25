@@ -1,0 +1,255 @@
+---
+title: "Expériences des données : enjeux, besoins et problématiques liées aux données. Quelles attentes de la Science Ouverte ?"
+subtitle: "*Journées UMI SOURCE à la Science Ouverte, Abidjan, CIRES - 23/04/2024*"
+author: "Alexandre Mathieu (doctorant, référent aux données UMI SOURCE). *alexmathieu.ln@gmail*.com"
+format: revealjs
+editor: visual
+---
+
+```{=html}
+<style>
+/* Ajuster la taille du titre de la première slide */
+.reveal .slides > section:first-of-type h1 {
+    font-size: 60px; /* Ajustez la taille selon vos besoins */
+}
+/* Ajouter un espace après le titre */
+.reveal .slides > section:first-of-type h1 {
+    margin-bottom: 100px; /* Ajustez l'espacement selon vos besoins */
+}
+/* Ajuster la taille du sous-titre */
+.reveal .slides > section:first-of-type h2 {
+    font-size: 24px; /* Ajustez la taille selon vos besoins */
+}
+
+/* Réduire la taille de la police dans les tableaux */
+.reveal table {
+    font-size: 22px; /* ou une autre taille selon vos besoins */
+}
+
+/* Optionnel : ajuster la marge intérieure des cellules de tableau pour économiser de l'espace */
+.reveal table th, .reveal table td {
+    padding: 2px 5px; /* réduire l'espacement interne */
+}
+</style>
+```
+
+------------------------------------------------------------------------
+
+## 1. Des limites de la science "traditionnelle"
+
+-   Modèle courant de recherche :
+
+    -   problématique de recherche --\> travaux de terrains, collectes de données --\> tentatives de publications --\> [données non reconnues, à l'abandon]{style="color: violet;"}.
+
+-   Modèle courant de publication : contexte d'un "[marché international de la science]{style="color: violet;"}" (Kleiche-Dray, Waast 2018 ; Waast 1988).
+
+    -   Effet limitant : [oligopole des éditeurs]{style="color: violet;"}, au Nord, contrôlent les prix.
+
+------------------------------------------------------------------------
+
+## 2. La science ouverte, dernier rempart du marché international de la science
+
+### Plusieurs appels internationaux pour une ouverture de la science
+
+-   The [Budapest conference]{style="color: violet;"}, organisé par la Open Society Foundations (BOAI) en 2001.
+
+-   Recommendations de l'<span style="color: violet;">UNESCO de 2021.
+
+------------------------------------------------------------------------
+
+### Vers un renversement épistémologique ?
+
+-   Changements de pratiques dans toutes les phases de la recherche scientifique : ex ante et ex post dans la recherche.
+-   Quelques objectifs principaux (UNESCO 2021) :
+
+![](images/obj_UNESCO.png){width="516" style="margin: 0 auto;"}
+
+------------------------------------------------------------------------
+
+### Avantages à la fois collectifs et individuels
+
++-----------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Avantages collectifs                                                                                                        | Avantages individuels                                                                                                                                            |
++=============================================================================================================================+==================================================================================================================================================================+
+| -   Réplicabilité : Permet la reproduction et la validation des résultats.                                                  | -   Collaboration : Favorise la croissance des collaborations.                                                                                                   |
+|                                                                                                                             |                                                                                                                                                                  |
+| -   Ethique : Utilisation citoyenne des fonds publics : éviter de refaire ce qui a déjà été fait.                           | -   Valorisation de son travail : Augmente la visibilité de l'auteur.e.                                                                                          |
+|                                                                                                                             |                                                                                                                                                                  |
+| -   Préservation : Pour retrouver facilement les données, éviter leur perte.                                                | -   Des travaux montrent que le nombre de citations d'un papier augmentait si les données associées étaient disponibles (Bai & Du 2022 ; Colavizza et al. 2020). |
+|                                                                                                                             |                                                                                                                                                                  |
+| -   Innovation : Favorise la création de nouvelles connaissance, les avancées scientifiques.                                |                                                                                                                                                                  |
+|                                                                                                                             |                                                                                                                                                                  |
+| -   Efficacité : Construit un écosystème dans lequel la science est plus cumulative, plus rapide et d'accès plus universel. |                                                                                                                                                                  |
+|                                                                                                                             |                                                                                                                                                                  |
+| -   Outil démocratique : aide à vérifier/fact checker. Avec la SO beaucoup d'erreurs auraient pu être éviter.               |                                                                                                                                                                  |
+|                                                                                                                             |                                                                                                                                                                  |
+| -   L'ouverture des données peut engager des avantages socio-économiques importants (OCDE 2022).                            |                                                                                                                                                                  |
++-----------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+## Trois outils principaux : le PGD, l'entrepôt et le data paper
+
+### 1. Le plan de gestion des données (PGD)
+
+-   Vient de l'anglais [Data Management Plan (DMP)]{style="color: violet;"}.
+
+-   Accompagne toute la recherche : Phase en amont, pendant et/ou après le projet/la recherche.
+
+-   Ce peut être un outils pour ses propres recherches, d'autres fois un document obligatoire.
+
+-   Constitue l'occasion de se poser toutes les questions sur ses données, de parer à toutes les éventualités ou difficultés possibles.
+
+------------------------------------------------------------------------
+
++-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+| Avantages collectifs                                                                    | Avantages individuels                                                                     |
++:=======================================================================================:+:=========================================================================================:+
+| -   Gage de bonne gestion des données parce qu'il permet de suivre les principes FAIR : | -   Aide à la bonne gestion des données, offre une vue globale sur l'ensemble des données |
+|                                                                                         |                                                                                           |
+|     -   Assure la reproductibilité des expériences en permettant de décrire les données | -   Compétence supplémentaire pour des contrats ou postes pour un "jeune" chercheur       |
+|                                                                                         |                                                                                           |
+|     -   Facilite leur compréhension                                                     |                                                                                           |
+|                                                                                         |                                                                                           |
+|     -   Assure le stockage, évite les pertes                                            |                                                                                           |
+|                                                                                         |                                                                                           |
+|     -   Clarifie le cadre juridique et éthique                                          |                                                                                           |
+|                                                                                         |                                                                                           |
+|     -   Spécifie les modalités de partage des données, clarifie droit de réutilisation  |                                                                                           |
+|                                                                                         |                                                                                           |
+|     -   Définit les responsabilités de chacun dans le projet                            |                                                                                           |
++-----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+### 2. L'entrepôt de données
+
+-   Interface numérique sur laquelle on peut déposer les données de son choix, qui pourraient être utiles soit :
+
+    -   Pour [accompagner]{style="color: violet;"} un travail de recherche ;
+
+    -   Pour [renseigner]{style="color: violet;"} sur l'existence de ces données ;
+
+    -   Pour [encourager]{style="color: violet;"} à la collaboration.
+
+------------------------------------------------------------------------
+
+-   Doivent répondre aux principes "FAIR" :
+
+    -   "Findable" ---\> [Trouvable]{style="color: violet;"}
+
+    -   "Accessible" ---\> [Accessible]{style="color: violet;"}
+
+    -   "Interoperable" ---\> [Interopérable]{style="color: violet;"}
+
+    -   "Reusable" ---\> [Réutilisable]{style="color: violet;"}
+
+------------------------------------------------------------------------
+
++------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Avantages collectifs                                 | Avantages individuels                                                             |
++:====================================================:+:=================================================================================:+
+| -   Partager avec la communauté scientifique         | -   Permet d'éviter de perdre ses données, de les préserver avant départ.         |
+|                                                      |                                                                                   |
+| -   Renforcer la visibilité d'un projet de recherche | -   Confiance dans les résultats scientifiques, reproductibilité et transparence. |
+|                                                      |                                                                                   |
+|                                                      | -   Etre citable : obtenir un DOI (en plus de celui potentiel d'un data paper).   |
++------------------------------------------------------+-----------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+-   Deux types d'entrepôts :
+
+    -   Avec curation ([DataSuds]{style="color: violet;"} ; RechercheDataGouv ; etc...)
+
+    -   Sans curation (Zenodo ; Nakala ; etc...)
+
+------------------------------------------------------------------------
+
+-   L'entrepôt de l'IRD : DataSuds
+
+Exemple d'un dépôt de jeu de données dans la collection UMI SOURCE.
+
+![](images/rural_obs_Mada.png){width="630"}
+
+------------------------------------------------------------------------
+
+### 3. Le data paper
+
+-   Produit final de la valorisation de ses données.
+
+-   Forme d'article publié dans une [revue scientifique]{style="color: violet;"}, avec révision par les pairs.
+
+-   Se concentre spécifiquement sur la [description]{style="color: violet;"} d'un ensemble de données ou plusieurs ensembles de données.
+
+-   Au lieu de rapporter les résultats d'une recherche expérimentale, il décrit en détail un jeu de données ou une base de données.
+
+-   Détaille les matériaux, méthodes et utilités de ces données.
+
+------------------------------------------------------------------------
+
+-   La structure générale d'un data paper est la suivante :
+
+    -   Description du jeu de données et de son contexte
+
+    -   Description des méthodes d'obtention
+
+    -   Explication du potentiel de réutilisation des données
+
+Les structures du data paper peuvent varier en fonction de la revue, certaines proposent des templates comme [Data in Brief]{style="color: violet;"}, [Scientific Data (Nature)]{style="color: violet;"}, Journal of Open Humanities Data ou Cybergeo.
+
+------------------------------------------------------------------------
+
++---------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Avantages collectifs                                          | Avantages individuels                                                                                                                                             |
++===============================================================+===================================================================================================================================================================+
+| -   Assure une certaine qualité des données.                  | -   Confère un DOI, rend encore une fois citable.                                                                                                                 |
+|                                                               |                                                                                                                                                                   |
+| -   Publicite d'autant mieux l'existence d'un jeu de données. | -   Confère un "titre" pour promouvoir ou faire connaître votre jeu de données à l'international.                                                                 |
+|                                                               |                                                                                                                                                                   |
+| -   Assure au mieux la reproductibilité de la recherche.      | -   Tout le travail habituellement non valorisé qui constitue en réalité une grande partie de votre temps est aujourd'hui valorisable en un article scientifique. |
++---------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+-   Les revues qui publient des data papers :
+
+    -   Indexés par les bases de données internationales : Web of Knowledge (ISI), PubMedCentral, Scopus, Google Scholar, Directory of Open Access Journal (DOAJ)...
+
+    -   Offre limitée de revues permettant de publier des DP, sauf quelques unes : Data in Brief, Scientific Data (Nature), Journal of Open Humanities Data, etc...
+
+    -   Bien évaluer la revue dans laquelle on veut publier : est-ce que la structure du DP me correspond ? Est-ce que la revue reconnaît mon entrepôt ? Quelle licence proposée ? Quelle évaluation par les pairs ?
+
+------------------------------------------------------------------------
+
+-   Quelques limites : le principe de l'auteur-payeur
+
+    -   Principe selon lequel les auteurs ou leurs institutions financent les frais de publication afin de rendre leurs travaux librement accessibles au public. Ce modèle est souvent associé aux revues dites en "Gold Open Access" (voies dorées).
+
+    -   Coûts élevés : sans aucune négociation, prix brut de 850\$ pour Data in Brief, et de 2290\$ pour Scientific Data (Nature).
+
+------------------------------------------------------------------------
+
+-   Quel modèle pour répondre à cette contrainte ?
+
+    -   L'UMI SOURCE développe des [guichets]{style="color: violet;"} d'aide à la publication de data paper.
+
+    -   Développer un [modèle de revue scientifique de data paper]{style="color: violet;"} en co-partenariat entre toutes ses antennes.
+
+-   L'UNESCO (2021) appelle au principe de ["flexibilité"]{style="color: violet;"} : "pas de méthode universelle pour pratiquer la science ouverte". Quel modèle, quelles politiques pour une science plus juste ?
+
+------------------------------------------------------------------------
+
+## Contacts
+
+-   Equipe UMI SOURCE :
+
+    -   Loïc Pian - loic.pian\@uvsq.fr
+
+    -   Dominique Couret - dominique.couret\@ird.fr
+
+    -   Alexandre Mathieu - alexmathieu.ln\@gmail.com
+
+-   Equipe IRD sur DataSuds notamment : data\@ird.fr
+
+------------------------------------------------------------------------

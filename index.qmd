@@ -1,0 +1,148 @@
+---
+title: "La science ouverte : transformer les pratiques de recherche ?"
+subtitle: "Accès, collaboration, reproductibilité et justice scientifique"
+
+author: "Alexandre Mathieu, Postdoctorant en économie politique (UMI SOURCE)"
+
+institute: |
+  PSF CREONS  
+  *Plan Structurant de Formation*  
+  *Coopérative de recherche équitable et ouverte Nords-Suds*  
+
+date: "2026-05-27"
+date-format: "D MMMM YYYY"
+lang: fr
+
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: true
+    transition: fade
+
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+## 1. La science produit énormément… mais partage difficilement
+
+-   Publications [**payantes**]{.violet}
+
+-   Données [**non valorisées**]{.violet}, voire [**perdues**]{.violet}
+
+-   Difficultés de [**reproduction**]{.violet}
+
+-   Fortes [**inégalités d'accès Nords/Suds**]{.violet}
+
+------------------------------------------------------------------------
+
+## 2. Alors, qu’est-ce que la science ouverte ?
+
+[Définition des Recommandations de l'UNESCO 2021 :]{.underline}
+
+« La SO est une série de [**principes**]{.violet} et de [**pratiques**]{.violet} visant à rendre la recherche scientifique accessible à tout le monde, au bénéfice des scientifiques et de la société tout entière »
+
+[4 piliers :]{.underline}
+
+-   Accès ouvert ;
+
+-   Partage des données ;
+
+-   Reproductibilité ;
+
+-   Collaboration et circulation des savoirs
+
+------------------------------------------------------------------------
+
+## 3. Une transformation de toute la chaîne de recherche
+
++-------------------------------------+------------------------------------+---------------------------------------------------------------------------------------+
+| Étape de la recherche               | Avant SO                           | Avec la science ouverte                                                               |
++=====================================+====================================+=======================================================================================+
+| [1. Questionner]{.violet}           | Démarches peu explicites           | Protocoles discutables et transparents (PAP, revues systématiques...)                 |
++-------------------------------------+------------------------------------+---------------------------------------------------------------------------------------+
+| [2. Produire des données]{.violet}  | Données peu documentées ou perdues | Données organisées, documentées et préservées (PGD, questions éthiques et juridiques) |
++-------------------------------------+------------------------------------+---------------------------------------------------------------------------------------+
+| [3. Analyser]{.violet}              | Résultats difficiles à vérifier    | Analyses reproductibles et réutilisables (GitHub, versioning,...)                     |
++-------------------------------------+------------------------------------+---------------------------------------------------------------------------------------+
+| [4. Publier]{.violet}               | Accès limité aux connaissances     | Publications et données plus accessibles (HAL, data papers, open access...)           |
++-------------------------------------+------------------------------------+---------------------------------------------------------------------------------------+
+| [5. Diffuser / collaborer]{.violet} | Ressources dispersées              | Mutualisation des savoirs et des outils                                               |
++-------------------------------------+------------------------------------+---------------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+## 4. Ouvrir la science… dans quelles conditions ? {.tiny}
+
+::: conditions-slide
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Ambition de la SO                            | Mais dans des contextes inégaux...                                                                     |
++==============================================+========================================================================================================+
+| Déposer et préserver ses données             | Manque de [serveurs]{.violet}, [stockage]{.violet} et [connexion]{.violet} internet stable             |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Produire des analyses reproductibles         | Faible accès aux [formations]{.violet}, [logiciels]{.violet} et [compétences]{.violet} techniques      |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Publier en accès ouvert                      | [APC élevés]{.violet} et faible soutien institutionnel                                                 |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Documenter et partager ses données           | Travail supplémentaire [peu reconnu académiquement]{.violet}                                           |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Utiliser les outils de la SO                 | Temps limité par des emplois alimentaires ou missions annexes [faute de financement doctoral]{.violet} |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Être accompagné aux pratiques ouvertes       | [Encadrement saturé]{.violet} : nombreux doctorants par superviseur                                    |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Participer aux réseaux scientifiques ouverts | Inégalités de [mobilité]{.violet}, financement et collaborations internationales                       |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Conserver la maîtrise des données            | Risques d’[extraction scientifique]{.violet} et de "parachute science"                                 |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Répondre aux nouvelles normes académiques    | Risque que la SO devienne une [exigence supplémentaire]{.violet} dans des systèmes déjà fragilisés     |
++----------------------------------------------+--------------------------------------------------------------------------------------------------------+
+:::
+
+------------------------------------------------------------------------
+
+## 5. Pourquoi un programme comme CREONS ?
+
+### 'Coopérative de Recherche Équitable et Ouverte Nords-Suds'
+
+Face aux disparités structurelles de recherche, l'objectif est de :
+
+-   Construire des [capacités collectives]{.violet} autour des pratiques de science ouverte
+
+-   Former des [ambassadeur.rices]{.violet} capables de transmettre à leur tour
+
+-   Expérimenter les outils directement à partir des [recherches des participant.es]{.violet}
+
+-   Développer [l’autonomie]{.violet} face à l’évolution rapide des outils scientifiques
+
+-   Produire collectivement des ressources et pratiques [réutilisables]{.violet}
+
+-   Renforcer des coopérations scientifiques plus [équitables]{.violet} entre les antennes de l’UMI SOURCE *(France, Côte d’Ivoire, Madagascar, Sénégal)*
+
+------------------------------------------------------------------------
+
+## 6. Les différentes dimensions explorées pendant la formation {.calendar-slide}
+
+::: calendar-table
++------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+| **Mercredi 27 Mai**                                                                            | **Jeudi 28 Mai**                                                | **Vendredi 29 Mai**                                                           | **Lundi 1er Juin**                                                |
+|                                                                                                |                                                                 |                                                                               |                                                                   |
+| "Science ouverte : quoi, pourquoi, comment ?"                                                  | "Publications et bibliographie"                                 | "Reproductibilité, réplicabilité et Github"                                   | "Conduire une revue de littérature systématique et reproductible" |
++------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+| **Mardi 2 Juin**                                                                               | **Mercredi 3 Juin**                                             | **Jeudi 4 Juin**                                                              | **Vendredi 5 Juin**                                               |
+|                                                                                                |                                                                 |                                                                               |                                                                   |
+| "Construire une recherche partenariale Nords-Suds équitable : défis, tensions et opportunités" | "Diffuser sa recherche en SO: dépôt de données et publications" | "Évolution et usages de l'IA dans la recherche: quels enjeux dans les Suds ?" | "Apprendre à apprendre"                                           |
++------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+:::
+
+------------------------------------------------------------------------
+
+## 7. Panel de la matinée du 27 mai 2026
+
+-   [Jean-Christophe Desconnets]{.violet}, directeur de la Mission Science Ouverte (MSO) de l'Institut de Recherche pour le Développement (IRD) \[**jean-christophe.desconnets\@ird.fr**\];
+
+-   [Moussa Samba]{.violet}, directeur des Presses Universitaires de l’Université Cheikh Anta Diop (UCAD) de Dakar (PUD) au Sénégal \[**moussa.samba\@ucad.fr**\];
+
+-   [Dominique Couret]{.violet}, directeure de recherche à l'IRD, initiatrice de formations en SO à l'UMI SOURCE, notamment en Côte d'Ivoire \[**couretdo\@ird.fr**\];
+
+-   [Diamondra Ramiandrisoa]{.violet}, doctorante IRD à l'UMI SOURCE, retour d'expérience sur son "Pre-analysis plan" dans le cadre du projet Betsaka, Madagascar \[**aina_diamondra.ramiandrisoa\@ird.fr**\].

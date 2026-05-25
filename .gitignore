@@ -1,0 +1,8 @@
+/.quarto/
+cat > .gitignore <<'EOF'
+.Rhistory
+.RData
+.DS_Store
+.quarto/
+_freeze/
+EOF

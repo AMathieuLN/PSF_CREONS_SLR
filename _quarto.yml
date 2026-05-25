@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "La science ouverte : transformer les pratiques de recherche ?"
+  site-url: "https://AMathieuLN.github.io/PSF_CREONS_introSO"
+
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: true
+    transition: fade
+    center: false
