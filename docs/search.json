@@ -1,51 +1,191 @@
 [
   {
-    "objectID": "index.html#la-science-produit-énormément-mais-partage-difficilement",
-    "href": "index.html#la-science-produit-énormément-mais-partage-difficilement",
-    "title": "La science ouverte : transformer les pratiques de recherche ?",
-    "section": "1. La science produit énormément… mais partage difficilement",
-    "text": "1. La science produit énormément… mais partage difficilement\n\nPublications payantes\nDonnées non valorisées, voire perdues\nDifficultés de reproduction\nFortes inégalités d’accès Nords/Suds"
+    "objectID": "index.html#pourquoi-parler-de-slr",
+    "href": "index.html#pourquoi-parler-de-slr",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Pourquoi parler de SLR ?",
+    "text": "Pourquoi parler de SLR ?\nFaire face à l’explosion de la littérature scientifique (Page et al., 2021 ; Cochrane, 2022):\n\nConstat : explosion de la production scientifique ; difficulté à identifier des conclusions robustes.\nEnjeu central : Comment synthétiser de manière fiable ? Comment produire une connaissance cumulative ?\nRéponse méthodologique : la Systematic Literature Review comme standard de synthèse rigoureuse et reproductible."
   },
   {
-    "objectID": "index.html#alors-quest-ce-que-la-science-ouverte",
-    "href": "index.html#alors-quest-ce-que-la-science-ouverte",
-    "title": "La science ouverte : transformer les pratiques de recherche ?",
-    "section": "2. Alors, qu’est-ce que la science ouverte ?",
-    "text": "2. Alors, qu’est-ce que la science ouverte ?\nDéfinition des Recommandations de l’UNESCO 2021 :\n« La SO est une série de principes et de pratiques visant à rendre la recherche scientifique accessible à tout le monde, au bénéfice des scientifiques et de la société tout entière »\n4 piliers :\n\nAccès ouvert ;\nPartage des données ;\nReproductibilité ;\nCollaboration et circulation des savoirs"
+    "objectID": "index.html#pourquoi-la-revue-de-littérature-pourrait-ne-plus-suffire",
+    "href": "index.html#pourquoi-la-revue-de-littérature-pourrait-ne-plus-suffire",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Pourquoi la revue de littérature pourrait ne plus suffire ?",
+    "text": "Pourquoi la revue de littérature pourrait ne plus suffire ?\n\nUne approche souvent implicite :\n\nSélection des articles non transparente, avec des critères rarement explicités ;\nDépend fortement du chercheur.euse\n\nRisques méthodologiques :\n\nBiais de sélection (choix des études) ;\nBiais de confirmation (choisir ce qui confirme l’hypothèse) ;\nRésultats difficilement reproductibles\n\nLimite scientifique : Impossible de garantir une synthèse exhaustive et totalement objective.\n\n(Aromataris & Pearson, 2014 ; Grant & Booth, 2009)."
   },
   {
-    "objectID": "index.html#une-transformation-de-toute-la-chaîne-de-recherche",
-    "href": "index.html#une-transformation-de-toute-la-chaîne-de-recherche",
-    "title": "La science ouverte : transformer les pratiques de recherche ?",
-    "section": "3. Une transformation de toute la chaîne de recherche",
-    "text": "3. Une transformation de toute la chaîne de recherche\n\n\n\n\n\n\n\n\nÉtape de la recherche\nAvant SO\nAvec la science ouverte\n\n\n\n\n1. Questionner\nDémarches peu explicites\nProtocoles discutables et transparents (PAP, revues systématiques…)\n\n\n2. Produire des données\nDonnées peu documentées ou perdues\nDonnées organisées, documentées et préservées (PGD, questions éthiques et juridiques)\n\n\n3. Analyser\nRésultats difficiles à vérifier\nAnalyses reproductibles et réutilisables (GitHub, versioning,…)\n\n\n4. Publier\nAccès limité aux connaissances\nPublications et données plus accessibles (HAL, data papers, open access…)\n\n\n5. Diffuser / collaborer\nRessources dispersées\nMutualisation des savoirs et des outils"
+    "objectID": "index.html#définition-clé-quest-ce-quune-slr",
+    "href": "index.html#définition-clé-quest-ce-quune-slr",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Définition clé : qu’est-ce qu’une SLR ?",
+    "text": "Définition clé : qu’est-ce qu’une SLR ?\nUne revue de littérature reproductible.\n\nDéfinition : “A Systematic Literature Review (SLR) is a research methodology to collect, identify, and criticallyanalyze the available research studies (e.g., articles, conference proceedings, books, dissertations) through a systematic procedure” (Carrera-Rivera et al., 2022).\nSes caractéristiques fondamentales :\n\nCritères définis a priori ;\nProcessus transparent et traçable ;\nRésultats reproductibles\n\nObjectif donc de produire une synthèse exhaustive fiable et non biaisée.\n\n(Page et al., 2021 ; Cochrane, 2022 ; Randles & Finnegan, 2023)."
   },
   {
-    "objectID": "index.html#ouvrir-la-science-dans-quelles-conditions",
-    "href": "index.html#ouvrir-la-science-dans-quelles-conditions",
-    "title": "La science ouverte : transformer les pratiques de recherche ?",
-    "section": "4. Ouvrir la science… dans quelles conditions ?",
-    "text": "4. Ouvrir la science… dans quelles conditions ?\n\n\n\n\n\n\n\n\nAmbition de la SO\nMais dans des contextes inégaux…\n\n\n\n\nDéposer et préserver ses données\nManque de serveurs, stockage et connexion internet stable\n\n\nProduire des analyses reproductibles\nFaible accès aux formations, logiciels et compétences techniques\n\n\nPublier en accès ouvert\nAPC élevés et faible soutien institutionnel\n\n\nDocumenter et partager ses données\nTravail supplémentaire peu reconnu académiquement\n\n\nUtiliser les outils de la SO\nTemps limité par des emplois alimentaires ou missions annexes faute de financement doctoral\n\n\nÊtre accompagné aux pratiques ouvertes\nEncadrement saturé : nombreux doctorants par superviseur\n\n\nParticiper aux réseaux scientifiques ouverts\nInégalités de mobilité, financement et collaborations internationales\n\n\nConserver la maîtrise des données\nRisques d’extraction scientifique et de “parachute science”\n\n\nRépondre aux nouvelles normes académiques\nRisque que la SO devienne une exigence supplémentaire dans des systèmes déjà fragilisés"
+    "objectID": "index.html#une-standardisation-du-processus-de-revue",
+    "href": "index.html#une-standardisation-du-processus-de-revue",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Une standardisation du processus de revue",
+    "text": "Une standardisation du processus de revue\n\nDémarche protocolisée :\n\nÉtapes clairement définies ;\nMéthodologie documentée ;\nProcédure reproductible ;\n\nUne exigence de transparence :\n\nStratégie de recherche explicitée ;\nCritères d’inclusion/d’exclusion justifiés ;\nProcessus de sélection traçable (ex: diagramme PRISMA) ;\n\nUne logique cumulative :\n\nPossibilité de reproduction ou de mise à jour ;\nBases pour d’autres approches d’analyses de la littérature."
   },
   {
-    "objectID": "index.html#pourquoi-un-programme-comme-creons",
-    "href": "index.html#pourquoi-un-programme-comme-creons",
-    "title": "La science ouverte : transformer les pratiques de recherche ?",
-    "section": "5. Pourquoi un programme comme CREONS ?",
-    "text": "5. Pourquoi un programme comme CREONS ?\n‘Coopérative de Recherche Équitable et Ouverte Nords-Suds’\nFace aux disparités structurelles de recherche, l’objectif est de :\n\nConstruire des capacités collectives autour des pratiques de science ouverte\nFormer des ambassadeur.rices capables de transmettre à leur tour\nExpérimenter les outils directement à partir des recherches des participant.es\nDévelopper l’autonomie face à l’évolution rapide des outils scientifiques\nProduire collectivement des ressources et pratiques réutilisables\nRenforcer des coopérations scientifiques plus équitables entre les antennes de l’UMI SOURCE (France, Côte d’Ivoire, Madagascar, Sénégal)"
+    "objectID": "index.html#ce-que-la-slr-nest-pas-typologie-des-revues",
+    "href": "index.html#ce-que-la-slr-nest-pas-typologie-des-revues",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Ce que la SLR n’est pas : typologie des revues",
+    "text": "Ce que la SLR n’est pas : typologie des revues\n\nRevue narrative (narrative review): Approche descriptive de la littérature ; s’apparente souvent à une généalogie subjective des textes.\nMeta-analyse (meta-analysis): Méthode statistique de synthèse. Combine les effets quantitatifs de plusieurs études et produit une estimation agrégée (effet moyen, intervalle de confiance, etc.). ==&gt; Peut être intégrée à la suite d’une SLR.\nScoping review : Cartographie conceptuelle d’un champ ; analyse le contenu des articles ; identifie les concepts, méthodes et lacunes.\nAnalyse bibliométrique : Cartographie quantitative de la science ; analyse les métadonnées (citations, auteurs, mots-clés), étudie les réseaux et dynamiques de publication. On cherche ici à comprendre la structure d’un champ scientifique."
   },
   {
-    "objectID": "index.html#les-différentes-dimensions-explorées-pendant-la-formation",
-    "href": "index.html#les-différentes-dimensions-explorées-pendant-la-formation",
-    "title": "La science ouverte : transformer les pratiques de recherche ?",
-    "section": "6. Les différentes dimensions explorées pendant la formation",
-    "text": "6. Les différentes dimensions explorées pendant la formation\n\n\n\n\n\n\n\n\n\n\nMercredi 27 Mai\n“Science ouverte : quoi, pourquoi, comment ?”\nJeudi 28 Mai\n“Publications et bibliographie”\nVendredi 29 Mai\n“Reproductibilité, réplicabilité et Github”\nLundi 1er Juin\n“Conduire une revue de littérature systématique et reproductible”\n\n\nMardi 2 Juin\n“Construire une recherche partenariale Nords-Suds équitable : défis, tensions et opportunités”\nMercredi 3 Juin\n“Diffuser sa recherche en SO: dépôt de données et publications”\nJeudi 4 Juin\n“Évolution et usages de l’IA dans la recherche: quels enjeux dans les Suds ?”\nVendredi 5 Juin\n“Apprendre à apprendre”"
+    "objectID": "index.html#différents-protocoles-méthode-encadrée-par-des-standards-internationaux",
+    "href": "index.html#différents-protocoles-méthode-encadrée-par-des-standards-internationaux",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Différents “protocoles” : méthode encadrée par des standards internationaux",
+    "text": "Différents “protocoles” : méthode encadrée par des standards internationaux\n\nJBI Manuel (Joanna Briggs Institute)\nROSES - Reporting Standards for Systematic Evidence Syntheses (Normes de compte rendu pour les synthèses systématiques des données probantes)\nMOOSE - Meta-analysis Of Observational Studies in Epidemiology (Méta-analyse d’études observationnelles en épidémiologie)\nPRISMA - Preferred Reporting Items for Systematic Reviews and Meta-Analyses (Éléments de rapport préférés pour les revues systématiques et les méta-analyses)"
   },
   {
-    "objectID": "index.html#panel-de-la-matinée-du-27-mai-2026",
-    "href": "index.html#panel-de-la-matinée-du-27-mai-2026",
-    "title": "La science ouverte : transformer les pratiques de recherche ?",
-    "section": "7. Panel de la matinée du 27 mai 2026",
-    "text": "7. Panel de la matinée du 27 mai 2026\n\nJean-Christophe Desconnets, directeur de la Mission Science Ouverte (MSO) de l’Institut de Recherche pour le Développement (IRD) [jean-christophe.desconnets@ird.fr];\nMoussa Samba, directeur des Presses Universitaires de l’Université Cheikh Anta Diop (UCAD) de Dakar (PUD) au Sénégal [moussa.samba@ucad.fr];\nDominique Couret, directeure de recherche à l’IRD, initiatrice de formations en SO à l’UMI SOURCE, notamment en Côte d’Ivoire [couretdo@ird.fr];\nDiamondra Ramiandrisoa, doctorante IRD à l’UMI SOURCE, retour d’expérience sur son “Pre-analysis plan” dans le cadre du projet Betsaka, Madagascar [aina_diamondra.ramiandrisoa@ird.fr]."
+    "objectID": "index.html#exemple-1-slr-sur-les-emplois-verts",
+    "href": "index.html#exemple-1-slr-sur-les-emplois-verts",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Exemple 1 : SLR sur les “emplois verts”",
+    "text": "Exemple 1 : SLR sur les “emplois verts”\nMathieu (2023, 2024) : Comprendre les fondements des emplois verts\n\nQuestion de recherche :\n\nQuelles sont les fondations conceptuelles des “green jobs” ?\nDans quelles conditions contribuent-ils au développement soutenable ?\nQuelle place pour les économies en développement ?\n\nApproche : ‘Systematic Literature Review’ (SLR) couplée à une analyse bibliométrique et revue de la littérature."
+  },
+  {
+    "objectID": "index.html#méthodologie-exemple-1-graphique-prisma",
+    "href": "index.html#méthodologie-exemple-1-graphique-prisma",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Méthodologie (exemple 1) : graphique PRISMA",
+    "text": "Méthodologie (exemple 1) : graphique PRISMA"
+  },
+  {
+    "objectID": "index.html#mots-clés",
+    "href": "index.html#mots-clés",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Mots-clés",
+    "text": "Mots-clés"
+  },
+  {
+    "objectID": "index.html#un-jeu-de-données-bdgj",
+    "href": "index.html#un-jeu-de-données-bdgj",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Un jeu de données : BDGJ",
+    "text": "Un jeu de données : BDGJ"
+  },
+  {
+    "objectID": "index.html#analyse-bibliométrique-cartographie-de-la-structure-du-champ-scientifique",
+    "href": "index.html#analyse-bibliométrique-cartographie-de-la-structure-du-champ-scientifique",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Analyse bibliométrique : cartographie de la structure du champ scientifique",
+    "text": "Analyse bibliométrique : cartographie de la structure du champ scientifique\n\n\nAnalyses réalisées : articles les plus cités, journaux dominants, réseaux d’auteurs, analyse de mots-clés…\n\n\n\nObjectif d’identifier à la fois : les piliers théoriques, les thèmes dominants, les dynamiques du champ."
+  },
+  {
+    "objectID": "index.html#exemple-de-résultat-1",
+    "href": "index.html#exemple-de-résultat-1",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Exemple de résultat 1",
+    "text": "Exemple de résultat 1"
+  },
+  {
+    "objectID": "index.html#exemple-de-résultat-2",
+    "href": "index.html#exemple-de-résultat-2",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Exemple de résultat 2",
+    "text": "Exemple de résultat 2"
+  },
+  {
+    "objectID": "index.html#exemple-2-une-slr-sur-le-deep-sea",
+    "href": "index.html#exemple-2-une-slr-sur-le-deep-sea",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Exemple 2 : Une SLR sur le ‘Deep-sea’",
+    "text": "Exemple 2 : Une SLR sur le ‘Deep-sea’\n\nWorking paper: B.Blanc, Mathieu, Taranco, Goutte, Geronimi, Goury (2026)\n\n\nQuestion de recherche :\n\nQuelles sont les valeurs économiques des services écosystémiques du deep sea ?\nPeut-on produire une synthèse robuste malgré l’hétérogénéité des études ?\n\n\nUn objectif : construire une base pour une méta-analyse économique."
+  },
+  {
+    "objectID": "index.html#méthodologie-le-protocole",
+    "href": "index.html#méthodologie-le-protocole",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Méthodologie : le protocole",
+    "text": "Méthodologie : le protocole"
+  },
+  {
+    "objectID": "index.html#méthodologie-mots-clés-12",
+    "href": "index.html#méthodologie-mots-clés-12",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Méthodologie : mots-clés (1/2)",
+    "text": "Méthodologie : mots-clés (1/2)"
+  },
+  {
+    "objectID": "index.html#méthodologie-mots-clés-22",
+    "href": "index.html#méthodologie-mots-clés-22",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Méthodologie : mots-clés (2/2)",
+    "text": "Méthodologie : mots-clés (2/2)"
+  },
+  {
+    "objectID": "index.html#un-jeu-de-données-deepval",
+    "href": "index.html#un-jeu-de-données-deepval",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Un jeu de données : DEEPVAL",
+    "text": "Un jeu de données : DEEPVAL"
+  },
+  {
+    "objectID": "index.html#analyses-réalisées-méta-analyse",
+    "href": "index.html#analyses-réalisées-méta-analyse",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Analyses réalisées : méta-analyse",
+    "text": "Analyses réalisées : méta-analyse\n\n\nMéta-régression bayésienne hiérarchique\n\n\n\nPrise en compte de l’hétérogénéité, de la dépendance intra-étude, de l’incertitude."
+  },
+  {
+    "objectID": "index.html#exemples-de-résultat-1-des-valeurs-économiques-extrêmement-dispersées",
+    "href": "index.html#exemples-de-résultat-1-des-valeurs-économiques-extrêmement-dispersées",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Exemples de résultat 1 : des valeurs économiques extrêmement dispersées",
+    "text": "Exemples de résultat 1 : des valeurs économiques extrêmement dispersées"
+  },
+  {
+    "objectID": "index.html#exemple-2-intérêt-scientifique-dépendrait-de-lindice-monxial-des-termes-de-léchange",
+    "href": "index.html#exemple-2-intérêt-scientifique-dépendrait-de-lindice-monxial-des-termes-de-léchange",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Exemple 2 : Intérêt scientifique dépendrait de l’indice monxial des termes de l’échange",
+    "text": "Exemple 2 : Intérêt scientifique dépendrait de l’indice monxial des termes de l’échange"
+  },
+  {
+    "objectID": "index.html#les-étapes-de-prisma-de-la-question-à-la-sélection-des-études",
+    "href": "index.html#les-étapes-de-prisma-de-la-question-à-la-sélection-des-études",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Les étapes de PRISMA : de la question à la sélection des études",
+    "text": "Les étapes de PRISMA : de la question à la sélection des études\n1) Formulation de la question : définir une question claire et structurée. Délimiter : population, phénomène étudié, type d’études.\n2) Identification : quelle base de données? Quel type de publication? Construction d’une équation de recherche (mots-clés et opérateurs booléens).\n3) Déduplication : suppression des doublons.\n4) Screening (titre/résumé) : filtrage rapide des articles selon la pertinente thématique et exclusions évidentes.\n5) Éligibilité (full-text) : lecture complète des articles retenus. Vérification si adéquation à la question, et qualité minimale."
+  },
+  {
+    "objectID": "index.html#différentes-interfaces-pour-réaliser-les-slr",
+    "href": "index.html#différentes-interfaces-pour-réaliser-les-slr",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Différentes interfaces pour réaliser les SLR",
+    "text": "Différentes interfaces pour réaliser les SLR\n\nBases de données :\n\nAbonnement (institutionnel) : Scopus, WoS, Lens\nSans abonnement : Google Scholar, OpenAlex. –&gt; Problème : moins optimisé que les autres pour les recherches avec connecteurs logiques.\n\nPour les analyses : sur R il y a Bibliometrix, très simple et très intuitif avec bons sites webs et bonnes références.\nZotero : Pour récolter toutes les ressources, avec une bibliothèque .bib qu’on peut exporter sur Bibliometrix pour créer un fichier excel de toutes ses données."
+  },
+  {
+    "objectID": "index.html#une-méthode-rigoureuse-mais-pas-parfaite",
+    "href": "index.html#une-méthode-rigoureuse-mais-pas-parfaite",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Une méthode rigoureuse… mais pas parfaite",
+    "text": "Une méthode rigoureuse… mais pas parfaite\n\nBiais de publication : surreprésentation des résultats significatifs, type de publicatino (revues vs littérature grise).\nBiais de sélection : dépendance aux BDD, mots-clés… risque d’exclusion d’autres études pertinentes.\nBiais de langues : surreprésentation des publications en anglais / sous-représentation des travaux locaux ou non anglophones."
+  },
+  {
+    "objectID": "index.html#la-slr-à-lâge-de-lia",
+    "href": "index.html#la-slr-à-lâge-de-lia",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "La SLR à l’âge de l’IA",
+    "text": "La SLR à l’âge de l’IA\n\n\nPlusieurs outils IA : Consensus, Google Lab, Research Rabbit…\nMais toujours l’enjeux des sources, types de publications, boîte noire derrière tout cela… D’où l’enjeu de complétions par les SLR."
+  },
+  {
+    "objectID": "index.html#pour-la-suite-quelques-ressources",
+    "href": "index.html#pour-la-suite-quelques-ressources",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Pour la suite, quelques ressources",
+    "text": "Pour la suite, quelques ressources\n\n\nPour faciliter la constitution d’une base de données bibliographique : https://www.bibliometrix.org/home/\nLe détail du protocole PRISMA : https://www.prisma-statement.org/protocols"
+  },
+  {
+    "objectID": "index.html#bibliographie",
+    "href": "index.html#bibliographie",
+    "title": "Conduire une revue de littérature systématique et reproductible",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\nCarrera-Rivera et al. (2022) “How-to conduct a systematic literature review: A quick guide for computer science research”. MethodsX. doi:10.1016/j.mex.2022.101895\nPage MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71. doi:10.1136/bmj.n71\nHiggins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA, editors. Cochrane Handbook for Systematic Reviews of Interventions version 6.3 [Internet]. Cochrane; 2022 [cited [Insérer la date de consultation]]. Available from: https://training.cochrane.org/handbook\nAromataris, E., & Pearson, A. (2014). The systematic review: an overview. AJN American Journal of Nursing, 114(3), 53-58. doi:10.1097/01.NAJ.0000444496.24228.2c"
   }
 ]
