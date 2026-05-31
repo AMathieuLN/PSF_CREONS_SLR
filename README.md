@@ -16,4 +16,6 @@ Le dépôt contient les slides RevealJS de la session d’introduction réalisé
 ├── images/
 ├── docs/
 │   └── index.html
-└── _quarto.yml
+├── _quarto.yml
+└── index.qmd
+
